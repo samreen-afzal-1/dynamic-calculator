@@ -1,0 +1,20 @@
+Room: Living Room | Temp: 16°C | Heater: ON
+Room: Bedroom | Temp: 21°C | Heater: OFF
+Room: Kitchen | Temp: 25°C | Heater: OFF
+Room: Study Room | Temp: 19°C | Heater: OFF
+Room: Guest Room | Temp: 27°C | Heater: OFF
+Room: Living Room   Temp: 16°C   Heater: ON
+Room: Bedroom   Temp: 21°C   Heater: OFF
+Room: Kitchen   Temp: 25°C   Heater: OFF
+Room: Study Room   Temp: 19°C   Heater: OFF
+Room: Guest Room   Temp: 27°C   Heater: OFF
+Room: Living Room   Temp: 16°C   Heater: ON
+Room: Bedroom   Temp: 21°C   Heater: OFF
+Room: Kitchen   Temp: 25°C   Heater: OFF
+Room: Study Room   Temp: 19°C   Heater: OFF
+Room: Guest Room   Temp: 27°C   Heater: OFF
+Room: Living Room   Temp: 16°C   Heater: ON
+Room: Bedroom   Temp: 21°C   Heater: OFF
+Room: Kitchen   Temp: 25°C   Heater: OFF
+Room: Study Room   Temp: 19°C   Heater: OFF
+Room: Guest Room   Temp: 27°C   Heater: OFF

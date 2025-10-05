@@ -1,0 +1,8 @@
+Temperature: 16°C → Heater: ON
+Temperature: 19°C → Heater: ON
+Temperature: 10°C → Heater: ON
+Temperature: 27°C → Heater: OFF
+Temperature: 16°C → Heater: ON
+Temperature: 17°C → Heater: ON
+Temperature: 20°C → Heater: ON
+Temperature: 27°C → Heater: OFF
